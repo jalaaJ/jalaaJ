@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Jalaa</h1>
-<h3 align="center">A passionate computer science student, with 1 year left to graduate.</h3>
+<h3 align="center">A passionate computer science student, with 1 semester left to graduate.</h3>
 <img align="right" alt="Junior me" width="400" src="https://michaelscodingspot.com/wp-content/uploads/2019/01/things-I-wish-I-could-tell-myself-as-a-Junior-Software-Developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitjjhub1&label=Profile%20views&color=0e75b6&style=flat" alt="gitjjhub1" /> </p>
 
-- 🌱 I’m currently learning **Angular, MySQL, Firebase, NodeJS, Docker and C#**
+- 🌱 I’m currently learning **Python and backend development using Django, APIs, MongoDB, System Design, Asynchronous Programming**
 
 - 📫 How to reach me **jalaaabusaleh.95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jalaa-abu-saleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jalaa-abu-saleh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jalaa-abu-saleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jalaa-abu-saleh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
