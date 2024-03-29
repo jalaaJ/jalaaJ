@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Jalaa</h1>
-<h3 align="center">A junior Software Developer, with 1 semester left to graduate.</h3>
+<h3 align="center">A Junior Software Developer, with B.Sc. in Computer Science.</h3>
 <img align="right" alt="Junior me" width="400" src="https://michaelscodingspot.com/wp-content/uploads/2019/01/things-I-wish-I-could-tell-myself-as-a-Junior-Software-Developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitjjhub1&label=Profile%20views&color=0e75b6&style=flat" alt="gitjjhub1" /> </p>
 
-- 🌱 I’m currently learning **Angular, APIs, Firebase, Asynchronous Programming**
+- 🌱 I’m currently learning **Python, APIs, Django, Flask, Asynchronous Programming**
 
 - 📫 How to reach me **jalaaabusaleh.95@gmail.com**
 
