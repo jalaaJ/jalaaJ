@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitjjhub1&label=Profile%20views&color=0e75b6&style=flat" alt="gitjjhub1" /> </p>
 
-- 🌱 I’m currently learning **Azure services: Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure Services including Webapps, Azure Vnet including subnetting and CIDR, Azure CosmosDB for MongoDB, Azure Storage Accounts including Blob Storage, Docker, Helm charts, Dapr, Infrastructure as Code using Bicep, and CI/CD pipelines using GitHub Actions.**
+- 🌱 I’m currently working at ZioNet and i'm getting more experience in **Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure Services including Webapps, Azure Vnet including subnetting and CIDR, Azure CosmosDB for MongoDB, Azure Storage Accounts including Blob Storage, Docker, Helm charts, Dapr, Infrastructure as Code using Bicep, and CI/CD pipelines using GitHub Actions.**
 
 - 📫 How to reach me **jalaaabusaleh.95@gmail.com**
 
