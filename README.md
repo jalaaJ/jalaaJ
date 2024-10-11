@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Jalaa</h1>
-<h3 align="center">A DevOps engineer and Software Developer, with B.Sc. in Computer Science.</h3>
+<h3 align="center">A DevOps Engineer and Software Developer, with B.Sc. in Computer Science.</h3>
 <img align="right" alt="Junior me" width="400" src="https://michaelscodingspot.com/wp-content/uploads/2019/01/things-I-wish-I-could-tell-myself-as-a-Junior-Software-Developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitjjhub1&label=Profile%20views&color=0e75b6&style=flat" alt="gitjjhub1" /> </p>
 
-- 🌱 I’m currently learning **Azure services: Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure Services including Webapps, Azure Vnet including subnetting and CIDR, Azure CosmosDB for MongoDB, Azure Storage Accounts including Blob Storage, Docker, Helm charts, Dapr, Infrastructure as Code using Bicep, CI/CD pipelines using GitHub Actions**
+- 🌱 I’m currently learning **Azure services: Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure Services including Webapps, Azure Vnet including subnetting and CIDR, Azure CosmosDB for MongoDB, Azure Storage Accounts including Blob Storage, Docker, Helm charts, Dapr, Infrastructure as Code using Bicep, and CI/CD pipelines using GitHub Actions.**
 
 - 📫 How to reach me **jalaaabusaleh.95@gmail.com**
 
