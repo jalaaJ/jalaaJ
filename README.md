@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Jalaa</h1>
-<h3 align="center">A DevOps Engineer and Software Developer, with B.Sc. in Computer Science.</h3>
+<h3 align="center">A Software Developer specialized in DevOps, with B.Sc. in Computer Science.</h3>
 <img align="right" alt="Junior me" width="400" src="https://michaelscodingspot.com/wp-content/uploads/2019/01/things-I-wish-I-could-tell-myself-as-a-Junior-Software-Developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitjjhub1&label=Profile%20views&color=0e75b6&style=flat" alt="gitjjhub1" /> </p>
 
-- 🌱 I’m currently working at ZioNet and i'm getting more experience in **Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure Services including Webapps, Azure Vnet including subnetting and CIDR, Azure CosmosDB for MongoDB, Azure Storage Accounts including Blob Storage, Docker, Helm charts, Dapr, Infrastructure as Code using Bicep, and CI/CD pipelines using GitHub Actions.**
+- 🌱 I’m currently working at Sisense and i'm getting more experience in different tools and AWS services including **AWS Kubernetes Service (EKS), Elastic Container Registry (ECR), Docker containers, bash scripting, Infrastructure as Code using Terraform, and CI/CD pipelines using Jenkins and GitHub Actions.**
+  
+- I'm part of a wonderful DevOps team who supports and pushes me to reach my true potential, and i'm committed to give my best to help them grow! 
 
 - 📫 How to reach me **jalaaabusaleh.95@gmail.com**
 
